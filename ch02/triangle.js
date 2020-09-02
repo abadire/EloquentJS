@@ -1,0 +1,1 @@
+for (let hashes = "#"; hashes.length < 8; hashes += "#" ) console.log(hashes);
