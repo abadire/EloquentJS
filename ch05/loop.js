@@ -9,4 +9,4 @@ function print(p) {
 	console.log(p);
 }
 
-loop(1, a => a < 5, a => ++a, a => console.log(a));
+loop(1, a => a < 5, a => ++a, a => a);
